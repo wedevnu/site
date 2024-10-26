@@ -1,7 +1,7 @@
 function About() {
     return (
         <>
-        <h1>About WeDev</h1>
+        <h1>About WeDev test</h1>
         </>
     )
 }

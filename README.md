@@ -1,7 +1,4 @@
 # site
-<<<<<<< HEAD
-The WeDev website using vite
-=======
 The WeDev website
 
 
@@ -12,4 +9,4 @@ The WeDev website
 - A “Projects” page could showcase past and ongoing club projects, especially the real-world apps being developed, while offering opportunities for others to contribute.
 -  A “Resources” page might link to tutorials, coding guides, and Apple’s developer resources for Swift, iOS, and visionOS, with a “Getting Started with iOS Development” section for beginners (have a lot of favorites for this).
 - A calendar page could display the schedule of events. A “Join Us” or “Contact Us” page would provide forms for new members, leadership interest, or general inquiries, along with links to social media and the mailing list.
->>>>>>> 5617f9c (add font)
+
