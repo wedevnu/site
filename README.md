@@ -1,2 +1,2 @@
 # site
-The WeDev website
+The WeDev website using vite
