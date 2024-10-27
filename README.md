@@ -2,6 +2,8 @@
 The WeDev website
 
 
+https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://svelte.dev/&ved=2ahUKEwiOvqKAy6-JAxWuD1kFHSd1IPEQFnoECCAQAQ&usg=AOvVaw0_sbKI13oShBYkhdIcqJPG - thing that is better than react?
+
 ## Things to do:
 - a home page with the club’s mission statement, 
 - upcoming events something for new members to sign up or join the mailing list (have a Google form rn that maybe we could include on a website via an iFrame?). 
