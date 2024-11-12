@@ -21,5 +21,5 @@ export default defineConfig({
   //       main: resolve(root, 'index.html')
   //     }
   //   }
-  // }
+  }
 })
